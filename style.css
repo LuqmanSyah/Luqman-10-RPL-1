@@ -4,7 +4,7 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 header {
-    background :linear-gradient(to bottom, blue, cyan, white);
+    background :linear-gradient(to bottom, white, white, cyan, white);
     height: 580px;
     clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 0);
 }
